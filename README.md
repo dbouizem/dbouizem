@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**dbouizem/dbouizem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Progress in Common Core 42
 
-Here are some ideas to get you started:
+<!-- Tronc Commun -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Common Core
+
+| Name                                                       | Description                                          | Domain |
+| ---------------------------------------------------------- | ---------------------------------------------------- | ------ |
+| [libft](https://github.com/dbouizem/libft)                 | Some C standard library functions reimplemented in C | Dev    |
+| [ft\_printf](https://github.com/dbouizem/ft_printf)        | Partial implementation of `printf` in C              | Dev    |
+
+
+
