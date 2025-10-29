@@ -14,4 +14,4 @@
 ### 📝 Exam Preparation
 | Rank | Description | Exercises |
 |------|-------------|-----------|
-| [Rank 02](https://github.com/dbouizem/rank02) | Exam preparation: algorithms, data structures, memory management | 55 exercises |
+| [Rank 02](https://github.com/dbouizem/Rank_02) | Exam preparation: algorithms, data structures, memory management | 55 exercises |
