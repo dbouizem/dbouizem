@@ -10,7 +10,7 @@
 | [push_swap](https://github.com/dbouizem/push_swap_turk) | Sort a stack using a limited set of operations and algorithms | Algo |
 | [pipex](https://github.com/dbouizem/pipex) | Recreate shell-like pipe behavior between processes in C | Sys |
 | [so_long](https://github.com/dbouizem/so_long) | Create a simple 2D game using the MiniLibX graphics library | Graph |
-| [Philosophers](https://github.com/dbouizem/philosophers) | Multithreading/multiprocessing simulation of the Dining Philosophers problem | Sys |
+| [Philosophers](https://github.com/dbouizem/philo) | Multithreading/multiprocessing simulation of the Dining Philosophers problem | Sys |
 
 ### 📝 Exam Preparation
 | Rank | Description | Exercises |
