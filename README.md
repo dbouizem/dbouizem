@@ -11,6 +11,7 @@
 | [pipex](https://github.com/dbouizem/pipex) | Recreate shell-like pipe behavior between processes in C | Sys |
 | [so_long](https://github.com/dbouizem/so_long) | Create a simple 2D game using the MiniLibX graphics library | Graph |
 | [philosophers](https://github.com/dbouizem/philo) | Multithreading/multiprocessing simulation of the Dining Philosophers problem | Sys |
+| [minishell](https://github.com/dbouizem/minishell) | Recreate a simple Unix shell with parsing, redirections, pipes and builtins | Sys |
 
 ###  Exam Preparation
 | Rank | Description | Exercises |
