@@ -32,7 +32,7 @@
       <a href="https://github.com/dbouizem/libft"><b>libft</b></a><br>
       Reimplementation of essential C standard library functions and custom utilities.
     </td>
-    <td align="center"><a href="subjects_comun_core/Libft_v19.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/dbouizem/rendu42/blob/main/subjects_comun_core/Libft_v19.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
     <td align="center"><a href="https://www.42evalhub.com/common/libft"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
     <td align="center">
       <a href="https://github.com/Tripouille/libftTester"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -47,7 +47,7 @@
       <a href="https://github.com/dbouizem/ft_printf"><b>ft_printf</b></a><br>
       Custom implementation of printf with formatted output and variadic arguments.
     </td>
-    <td align="center"><a href="subjects_comun_core/ft_printf_v12.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/dbouizem/rendu42/blob/main/subjects_comun_core/ft_printf_v12.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
     <td align="center"><a href="https://www.42evalhub.com/common/ftprintf"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
     <td align="center">
       <a href="https://github.com/Tripouille/printfTester"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -63,7 +63,7 @@
       <a href="https://github.com/dbouizem/get_next_line_improved">improved</a><br>
       Efficient line-by-line reader from file descriptors with optimized memory handling.
     </td>
-    <td align="center"><a href="subjects_comun_core/get_next_line_v14.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/dbouizem/rendu42/blob/main/subjects_comun_core/get_next_line_v14.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
     <td align="center"><a href="https://www.42evalhub.com/common/getnextline"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
     <td align="center"><a href="https://github.com/Tripouille/gnlTester"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td>
@@ -79,7 +79,7 @@
       <a href="https://github.com/dbouizem/born2beroot"><b>born2beroot</b></a><br>
       Secure Debian server setup with users, permissions, SSH, firewall, and monitoring.
     </td>
-    <td align="center"><a href="subjects_comun_core/Born2broot_v5.2.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/dbouizem/rendu42/blob/main/subjects_comun_core/Born2broot_v5.2.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
     <td align="center"><a href="https://www.42evalhub.com/common/born2beroot"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
     <td align="center"><a href="https://github.com/gemartin99/Born2beroot-Tester"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td>
@@ -95,7 +95,7 @@
       <a href="https://github.com/dbouizem/push_swap_turk"><b>push_swap</b></a><br>
       Stack sorting algorithm using constrained operations and optimization strategies.
     </td>
-    <td align="center"><a href="subjects_comun_core/push_swap_v1.1.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/dbouizem/rendu42/blob/main/subjects_comun_core/push_swap_v1.1.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
     <td align="center"><a href="https://www.42evalhub.com/common/pushswap"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
     <td align="center"><a href="https://github.com/SimonCROS/push_swap_tester"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></td>
@@ -108,7 +108,7 @@
       <a href="https://github.com/dbouizem/pipex"><b>pipex</b></a><br>
       Recreation of shell-like pipe behavior between processes in C.
     </td>
-    <td align="center"><a href="subjects_comun_core/pipex_v4.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/dbouizem/rendu42/blob/main/subjects_comun_core/pipex_v4.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
     <td align="center"><a href="https://www.42evalhub.com/common/pipex"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
     <td align="center"><a href="https://github.com/michmos/42_pipex_tester"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td>
@@ -124,7 +124,7 @@
       <a href="https://github.com/dbouizem/so_long"><b>so_long</b></a><br>
       Small 2D game built with MiniLibX, including map parsing, rendering, and movement.
     </td>
-    <td align="center"><a href="subjects_comun_core/so_long_v4.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/dbouizem/rendu42/blob/main/subjects_comun_core/so_long_v4.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
     <td align="center"><a href="https://www.42evalhub.com/common/solong"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
     <td align="center"><a href="https://github.com/augustobecker/so_long_tester"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td>
@@ -140,7 +140,7 @@
       <a href="https://github.com/dbouizem/philo"><b>philosophers</b></a><br>
       Dining Philosophers simulation using threads, mutexes, synchronization, and timing.
     </td>
-    <td align="center"><a href="subjects_comun_core/philosophers_v12.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/dbouizem/rendu42/blob/main/subjects_comun_core/philosophers_v12.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
     <td align="center"><a href="https://www.42evalhub.com/common/philosophers"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
     <td align="center"><a href="https://github.com/newlinuxbot/Philosphers-42Project-Tester"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td>
@@ -156,7 +156,7 @@
       <a href="https://github.com/dbouizem/minishell"><b>minishell</b></a><br>
       Simple UNIX shell with parsing, pipes, redirections, environment handling, and builtins.
     </td>
-    <td align="center"><a href="subjects_comun_core/minishell_v9.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/dbouizem/rendu42/blob/main/subjects_comun_core/minishell_v9.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
     <td align="center"><a href="https://www.42evalhub.com/common/minishell"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
     <td align="center"><a href="https://github.com/zstenger93/42_minishell_tester"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td>
@@ -172,7 +172,7 @@
       <a href="https://github.com/dbouizem/cub3D"><b>cub3D</b></a><br>
       3D raycasting engine inspired by Wolfenstein 3D, with map parsing, textures, and player movement.
     </td>
-    <td align="center"><a href="subjects_comun_core/cub3d_v12.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
+    <td align="center"><a href="https://github.com/dbouizem/rendu42/blob/main/subjects_comun_core/cub3d_v12.0.pdf"><img src="https://img.shields.io/badge/-1f6feb?style=flat-square&logo=readthedocs&logoColor=white"/></a></td>
     <td align="center"><a href="https://www.42evalhub.com/common/cub3d"><img src="https://img.shields.io/badge/-2ea043?style=flat-square&logo=checkmarx&logoColor=white"/></a></td>
     <td align="center">
       <a href="https://github.com/romslf/cub3d-tester"><img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
