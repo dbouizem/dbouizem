@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/dbouizem/42_Common_Core"><img src="https://img.shields.io/badge/Projects-41b2f6?style=for-the-badge&logo=42&logoColor=white" alt="Projects" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/dbouizem?tab=repositories"><img src="https://img.shields.io/badge/Personal_Projects-41b2f6?style=for-the-badge&logo=github&logoColor=white" alt="Personal Projects" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/dbouizem/personal-projects"><img src="https://img.shields.io/badge/Personal_Projects-41b2f6?style=for-the-badge&logo=github&logoColor=white" alt="Personal Projects" /></a>&nbsp;&nbsp;
   <a href="https://github.com/dbouizem?tab=repositories"><img src="https://img.shields.io/badge/Freelance-41b2f6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Freelance" /></a>&nbsp;&nbsp;
   <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-aa5af8?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
   <a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/Resume-aa5af8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
